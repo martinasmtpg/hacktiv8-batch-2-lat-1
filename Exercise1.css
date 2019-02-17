@@ -1,0 +1,12 @@
+  tbody {
+    color: rgb(218, 15, 140);
+  }
+  table td {
+    -webkit-transition: all 0.7s ease-in-out 0s;
+    -moz-transition: all 0.7s ease-in-out 0s;
+    -o-transition: all 0.7s ease-in-out 0s;
+    transition: all 0.7s ease-in-out 0s;
+  }
+  table tr:nth-child(2n+0) {
+    background: rgb(108, 233, 191);
+  }
